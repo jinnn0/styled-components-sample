@@ -1,4 +1,4 @@
-Creating a simple UI elements with Styled Components.
+Creating a simple reusable UI elements with Styled Components.
 
 ![AppImage](screenshot.png)
 
